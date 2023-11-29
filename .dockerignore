@@ -1,0 +1,5 @@
+api-spec.yaml
+requests.http
+*.iml
+.idea/
+http-client.private.env.json

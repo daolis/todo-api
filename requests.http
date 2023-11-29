@@ -1,0 +1,15 @@
+### Get todos
+GET {{host}}/api/toDoItems
+
+### Get todos
+GET {{host}}/api/toDoItems/0b7557e2-9cd3-453f-95b7-8bbac2baecbe
+
+### Get todos
+POST {{host}}/api/toDoItems
+Content-Type: text/plain
+
+Lalalalalala
+
+### Set To Done
+POST {{host}}/api/toDoItems/0b7557e2-9cd3-453f-95b7-8bbac2baecbe/setDone
+
